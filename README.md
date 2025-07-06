@@ -66,11 +66,6 @@ and let the app calculate who owes what-making group payments hassle-free!
 
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes and new features.
 
-
-### License
-
-This project is licensed under the MIT License.
-
 ### Author
 
 [KelvinCode1234](https://github.com/KelvinCode1234)
